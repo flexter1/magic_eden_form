@@ -39,4 +39,4 @@ def register(index):
 
 
 if __name__ == '__main__':
-    Pool(processes=3).map(register,mails_list)
+    Pool(processes=5).map(register,range(len(mails_list)))
