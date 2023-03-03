@@ -9,7 +9,7 @@ Import your mails in `mails.txt`
 
 Import your eth wallets in `eth.txt`
 
-Import your sol wallets in `eth.txt`
+Import your sol wallets in `sol.txt`
 
 
 Enter in terminal:
